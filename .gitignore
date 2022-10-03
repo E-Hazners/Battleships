@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Fields and methods in enum/Robot control/out/
+/Topics/Fields and methods in enum/Robot control/out/production/classes/
